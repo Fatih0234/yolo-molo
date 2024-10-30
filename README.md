@@ -1,22 +1,26 @@
-# train-yolov8-custom-dataset-step-by-step-guide
+<h1 align="center">Hi 👋, I'm Fatih.</h1>
+<h3 align="center">A passionate data person.</h3>
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=m9fH9OWn8YM">
-    <img width="100%" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/yolov8_object_detection.jpg" alt="Watch the video">
-    </br>Watch on YouTube: Train Yolo V8 object detector on your custom data | Step by step guide !
-</a>
+
+
+<p align="left">
+This is my test space for discovering Yolo models.
 </p>
 
-## dataset
+<h3 align="center">Learn about myself</h1>
 
-If you want to train yolov8 with the same dataset I use in the video, this is what you should do:
+- 🌱 I’m currently learning **ML Algorithms, Cloud Computing, Data Modelling, Database Management, Data Analysis**
 
-1. Download the [downloader.py](https://raw.githubusercontent.com/openimages/dataset/master/downloader.py) file.
-2. Download the object detection dataset; [train](https://storage.googleapis.com/openimages/v6/oidv6-train-annotations-bbox.csv), [validation](https://storage.googleapis.com/openimages/v5/validation-annotations-bbox.csv) and [test](https://storage.googleapis.com/openimages/v5/test-annotations-bbox.csv).
-2. Go to **prepare_data** directory.
-4. Execute **create_image_list_file.py**.
-5. Execute **downloader.py**.
+- 💬 Ask me about **python, data science, cloud-computing and webscrapping** 
 
-       python downloader.py $IMAGE_LIST_FILE --download_folder=$DOWNLOAD_FOLDER
+- 📫 How to reach me **sekanti02@gmail.com**
 
-6. Execute **create_dataset_yolo_format.py**, changing **DATA_ALL_DIR** by **$DOWNLOAD_FOLDER**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fatih96458742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatih96458742" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatih karahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih karahan" height="30" width="40" /></a>
+<a href="https://medium.com/@sekanti02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sekanti02" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
